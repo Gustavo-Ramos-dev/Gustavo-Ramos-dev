@@ -27,7 +27,7 @@
 
 ---
 
-contact me by 
+contact me 🌍
 
 [website]: "#"
 [linkedin]: https://www.linkedin.com/in/gustavo-ramos-b54305230/
